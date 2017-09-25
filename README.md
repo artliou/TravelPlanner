@@ -36,7 +36,7 @@ They can also retrieve their saved trip records, and delete them if desired.
 
 5. The user can view their saved trip records, and delete them if desired.
 
-##Screenshots
+## Screenshots
 ![Alt text](/screenshots/home-page.png?raw=true "Homepage")
 
 ![Alt text](/screenshots/calendar.png?raw=true "Calendar")
