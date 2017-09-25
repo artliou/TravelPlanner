@@ -36,6 +36,24 @@ They can also retrieve their saved trip records, and delete them if desired.
 
 5. The user can view their saved trip records, and delete them if desired.
 
+##Screenshots
+- Homepage
+[[https://github.com/artliou/TravelPlanner/blob/master/screenshots/home-page.png]]
+
+- Calendar
+[[https://github.com/artliou/TravelPlanner/blob/master/screenshots/calendar.png]]
+
+- Attractions
+[[https://github.com/artliou/TravelPlanner/blob/master/screenshots/attractions.png]]
+
+- Hotels
+[[https://github.com/artliou/TravelPlanner/blob/master/screenshots/hotels.png]]
+
+- Restaurants
+[[https://github.com/artliou/TravelPlanner/blob/master/screenshots/restaurants.png]]
+
+- Saved-Trips
+[[https://github.com/artliou/TravelPlanner/blob/master/screenshots/saved-trips.png]]
 ## Requirements
 
 - Node: "6.9.5"
